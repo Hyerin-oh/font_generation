@@ -14,3 +14,12 @@
 ![11](https://user-images.githubusercontent.com/68813518/102024658-a5452580-3dd6-11eb-89f8-f16f0e3acfeb.jpg)
 ![12](https://user-images.githubusercontent.com/68813518/102024640-9eb6ae00-3dd6-11eb-91fb-f0bd389a781c.jpg)
 ![13](https://user-images.githubusercontent.com/68813518/102024643-a0807180-3dd6-11eb-90b4-b3852557607e.jpg)
+
+# 참고자료 
+https://github.com/lllsiriuslll/font_generation
+https://github.com/jeina7/Handwriting_styler
+https://github.com/kaonashi-tyc/zi2zi
+
+# language
+## pytorch 1.6 d
+#### 아마...? 잘 기억이 안나네요 ㅜㅜ  
