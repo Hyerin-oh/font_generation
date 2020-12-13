@@ -17,9 +17,10 @@
 
 # 참고자료 
 https://github.com/lllsiriuslll/font_generation
+
 https://github.com/jeina7/Handwriting_styler
+
 https://github.com/kaonashi-tyc/zi2zi
 
-# language
-## pytorch 1.6 d
-#### 아마...? 잘 기억이 안나네요 ㅜㅜ  
+# language - pytorch 1.6 
+아마...? 잘 기억이 안나네요 ㅜㅜ  
